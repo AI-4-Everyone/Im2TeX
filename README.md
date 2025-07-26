@@ -6,6 +6,7 @@ Welcome to **Image-to-LaTeX**, a project designed to generate high-quality **syn
 ## 📑 Table of Contents
 
 - [🚀 What’s Inside](#-whats-inside)
+- [🚀🚀 Getting Started](#-getting-started)
 - [📘 Paper (Coming Soon)](#-paper-coming-soon)
 - [📁 Repository Structure](#-repository-structure)
 - [🔄 Pipeline](#-pipeline)
