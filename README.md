@@ -10,7 +10,7 @@ Welcome to **Image-to-LaTeX**, a project designed to generate high-quality **syn
 - [📘 Paper (Coming Soon)](#-paper-coming-soon)
 - [📁 Repository Structure](#-repository-structure)
 - [🔄 Pipeline](#-pipeline)
-- [📦 Installation](#-installation)
+- [📦 Setup](#-setup)
 - [📤 Dataset Access](#-dataset-access)
 - [📄 License](#-license)
 - [📚 Citation](#-citation)
