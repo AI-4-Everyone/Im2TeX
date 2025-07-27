@@ -1,7 +1,7 @@
 # 🧠 Image-to-LaTeX: Generating Image to LaTeX synthetic Datasets
 
 Welcome to **Image-to-LaTeX**, a project designed to generate high-quality **synthetic image-to-LaTeX datasets**. This resource is ideal for training and evaluating models on coding in LaTeX and generating higher quality tables and diagrams.
----
+--- 
 
 ## 📑 Table of Contents
 
