@@ -81,9 +81,12 @@ Marc Haraoui, Boammani Aser Lompo *Im2TeX*. GitHub repository: https://github.co
 
 **BibTeX:**
 ```bibtex
-@misc{haraouilompo2025tableqa,
-  author       = {Marc Haraoui and Boammani Aser Lompo},
-  title        = {Im2TeX},
-  year         = {2025},
-  howpublished = {\url{https://huggingface.co/datasets/AI-4-Everyone/Im2TeX}},
+@misc{lompo2025visualtableqaopendomainbenchmarkreasoning,
+      title={Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images}, 
+      author={Boammani Aser Lompo and Marc Haraoui},
+      year={2025},
+      eprint={2509.07966},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.07966}, 
 }
